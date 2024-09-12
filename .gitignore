@@ -1,0 +1,9 @@
+venv
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.log
+*.pyc
+*.ruff_cache
+logs/bot.log
